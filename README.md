@@ -1,9 +1,9 @@
 ## 📊 Analyse de Performance : Retail Superstore
 ## 📝 Description du Projet
 Ce projet consiste en une analyse de données bout-en-bout d'une entreprise de distribution (Superstore). L'objectif est d'identifier les leviers de croissance et les sources d'inefficacité (pertes de profit) pour aider la direction à prendre des décisions stratégiques.
-🎯 Problématiques Business
-Quelles sont les catégories de produits les plus rentables ?
+## 🎯 Problématiques Business
+- Quelles sont les catégories de produits les plus rentables ?
 
-Existe-t-il des disparités géographiques dans la performance des ventes ?
+- Existe-t-il des disparités géographiques dans la performance des ventes ?
 
-Quels segments de clientèle génèrent la meilleure marge bénéficiaire ?
+- Quels segments de clientèle génèrent la meilleure marge bénéficiaire ?
