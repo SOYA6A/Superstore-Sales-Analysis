@@ -7,3 +7,9 @@ Ce projet consiste en une analyse de données bout-en-bout d'une entreprise de d
 - Existe-t-il des disparités géographiques dans la performance des ventes ?
 
 - Quels segments de clientèle génèrent la meilleure marge bénéficiaire ?
+🛠️ Technologies Utilisées
+SQL : Extraction et agrégation des données clés (KPIs).
+
+Power BI / Tableau : Création d'un dashboard interactif et visualisation.
+
+Python : Analyse et détection des anomalies.
