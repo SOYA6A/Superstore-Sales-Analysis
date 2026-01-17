@@ -14,3 +14,8 @@ Ce projet consiste en une analyse de données bout-en-bout d'une entreprise de d
 
 - Python : Analyse et détection des anomalies.
 ## 📂 Structure du Dépôt
+/SQL_Queries : Contient les scripts pour le calcul du Chiffre d'Affaires et du Profit.
+
+/Dashboard : Fichier source de la visualisation (.pbix ou .twbx).
+
+README.md : Documentation du projet.
