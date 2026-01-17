@@ -13,3 +13,4 @@ Ce projet consiste en une analyse de données bout-en-bout d'une entreprise de d
 - Power BI / Tableau : Création d'un dashboard interactif et visualisation.
 
 - Python : Analyse et détection des anomalies.
+## 💡 Analyses & Insights Clés (Exemples)
