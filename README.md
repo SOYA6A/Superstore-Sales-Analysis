@@ -1,5 +1,5 @@
 
-## en cours 🚧
+## En cours 🚧
 
 ## 📊 Analyse de Performance : Retail Superstore
 ## 📝 Description du Projet
@@ -22,3 +22,9 @@ Ce projet consiste en une analyse de données bout-en-bout d'une entreprise de d
 - /Dashboard : Fichier source de la visualisation (.pbix ou .twbx).
 
 - README.md : Documentation du projet.
+
+
+Formation active sur sqlzoo.net : L'objectif est de maîtriser la manipulation de données, des requêtes de base aux jointures complexes. 
+
+
+``
