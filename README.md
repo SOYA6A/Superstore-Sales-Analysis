@@ -26,5 +26,3 @@ Ce projet consiste en une analyse de données bout-en-bout d'une entreprise de d
 
 Formation active sur sqlzoo.net : L'objectif est de maîtriser la manipulation de données, des requêtes de base aux jointures complexes. 
 
-
-``
